@@ -3,7 +3,7 @@
 
 ## 🧹 YOLO Dataset Cleaning Scripts
 
-This repository contains Python scripts for cleaning and preparing datasets for YOLO-based object detection training. These utilities help streamline dataset management by removing duplicates, fixing mislabeled classes, and splitting datasets for training.
+This repository contains Python scripts for cleaning and preparing datasets for YOLO-based object detection training used in our thesis. These utilities helped streamline dataset management by removing duplicates, fixing mislabeled classes, and splitting dataset.
 
 ---
 
