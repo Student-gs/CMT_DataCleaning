@@ -1,0 +1,276 @@
+{
+    "6k": [],
+    "richard1": [
+        {
+            "image": "richard1\\images\\Picture14-1_jpg.rf.bc250e30f9ee13e2d4841d09fdbaa491.jpg",
+            "label": "richard1\\labels\\Picture14-1_jpg.rf.bc250e30f9ee13e2d4841d09fdbaa491.txt"
+        },
+        {
+            "image": "richard1\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.61d7c4ce2dab3ce7a4d8ed761096688c.jpg",
+            "label": "richard1\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.61d7c4ce2dab3ce7a4d8ed761096688c.txt"
+        },
+        {
+            "image": "richard1\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.703967ce5a4ea028a5240177a7b35d4f.jpg",
+            "label": "richard1\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.703967ce5a4ea028a5240177a7b35d4f.txt"
+        },
+        {
+            "image": "richard1\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.95b3f4c1abcc7141de4ad702e9b044c1.jpg",
+            "label": "richard1\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.95b3f4c1abcc7141de4ad702e9b044c1.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-244-_jpg.rf.684d9867aaa9251243af3015c7d245bb.jpg",
+            "label": "richard1\\labels\\tricy-244-_jpg.rf.684d9867aaa9251243af3015c7d245bb.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-325-_jpg.rf.c0368b9131afc3186d81ec1db509056b.jpg",
+            "label": "richard1\\labels\\tricy-325-_jpg.rf.c0368b9131afc3186d81ec1db509056b.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-326-_jpg.rf.460f959371d5d63fc90c99fd9311b8cc.jpg",
+            "label": "richard1\\labels\\tricy-326-_jpg.rf.460f959371d5d63fc90c99fd9311b8cc.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-333-_jpg.rf.449d4f2eb830540df869b3a9f867dc9d.jpg",
+            "label": "richard1\\labels\\tricy-333-_jpg.rf.449d4f2eb830540df869b3a9f867dc9d.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-385-_jpg.rf.1c761bebadcad742e98d80b848c9aab1.jpg",
+            "label": "richard1\\labels\\tricy-385-_jpg.rf.1c761bebadcad742e98d80b848c9aab1.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-386-_jpg.rf.0d709cf9cb198456cea0f29406a3eb75.jpg",
+            "label": "richard1\\labels\\tricy-386-_jpg.rf.0d709cf9cb198456cea0f29406a3eb75.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-394-_jpg.rf.30c4223371bb30394efa6925a302b239.jpg",
+            "label": "richard1\\labels\\tricy-394-_jpg.rf.30c4223371bb30394efa6925a302b239.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-403-_jpg.rf.8f3cd2c53f15e37beca8511e471e6f20.jpg",
+            "label": "richard1\\labels\\tricy-403-_jpg.rf.8f3cd2c53f15e37beca8511e471e6f20.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-422-_jpg.rf.8d3ad38831f138ceb4a3511818bf66ce.jpg",
+            "label": "richard1\\labels\\tricy-422-_jpg.rf.8d3ad38831f138ceb4a3511818bf66ce.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-553-_jpg.rf.7f06977620cd23cfcb360fc2e880f045.jpg",
+            "label": "richard1\\labels\\tricy-553-_jpg.rf.7f06977620cd23cfcb360fc2e880f045.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-556-_jpg.rf.0500eddab6a0357cc114f419876e7025.jpg",
+            "label": "richard1\\labels\\tricy-556-_jpg.rf.0500eddab6a0357cc114f419876e7025.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-560-_jpg.rf.fee19cfad241a62626b75a347664ad29.jpg",
+            "label": "richard1\\labels\\tricy-560-_jpg.rf.fee19cfad241a62626b75a347664ad29.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-581-_jpg.rf.5f43b8e3f275e70948bff4eecb37c4bc.jpg",
+            "label": "richard1\\labels\\tricy-581-_jpg.rf.5f43b8e3f275e70948bff4eecb37c4bc.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-686-_jpg.rf.e2106c83b268c4d1647807504c83043e.jpg",
+            "label": "richard1\\labels\\tricy-686-_jpg.rf.e2106c83b268c4d1647807504c83043e.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-763-_jpg.rf.42f2b959e21a5d07e48a433c290b1f89.jpg",
+            "label": "richard1\\labels\\tricy-763-_jpg.rf.42f2b959e21a5d07e48a433c290b1f89.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-765-_jpg.rf.88ecee9e8523439ff28d6e00a937a923.jpg",
+            "label": "richard1\\labels\\tricy-765-_jpg.rf.88ecee9e8523439ff28d6e00a937a923.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-871-_jpg.rf.3eb7fac2ca9025f0c292a5c2681df49e.jpg",
+            "label": "richard1\\labels\\tricy-871-_jpg.rf.3eb7fac2ca9025f0c292a5c2681df49e.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-123-_jpg.rf.2feedbaa8e85390d769fc37d939c89ed.jpg",
+            "label": "richard1\\labels\\tricy-123-_jpg.rf.2feedbaa8e85390d769fc37d939c89ed.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-194-_jpg.rf.9f3ed03db73e10be944fcc61509cb51f.jpg",
+            "label": "richard1\\labels\\tricy-194-_jpg.rf.9f3ed03db73e10be944fcc61509cb51f.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-228-_jpg.rf.1d9fef27c7dac9835d823cf3fde533ee.jpg",
+            "label": "richard1\\labels\\tricy-228-_jpg.rf.1d9fef27c7dac9835d823cf3fde533ee.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-576-_jpg.rf.34884feb2cb6597d4b845213908ae1dc.jpg",
+            "label": "richard1\\labels\\tricy-576-_jpg.rf.34884feb2cb6597d4b845213908ae1dc.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-756-_jpg.rf.c8e41ee65b6587d4bee1171fedae79b5.jpg",
+            "label": "richard1\\labels\\tricy-756-_jpg.rf.c8e41ee65b6587d4bee1171fedae79b5.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-123-_jpg.rf.42c3077c7c3c040c72265c98b9be6b57.jpg",
+            "label": "richard1\\labels\\tricy-123-_jpg.rf.42c3077c7c3c040c72265c98b9be6b57.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-187-_jpg.rf.63df770b8396312bdbd0ca1772665ba2.jpg",
+            "label": "richard1\\labels\\tricy-187-_jpg.rf.63df770b8396312bdbd0ca1772665ba2.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-23-_jpeg.rf.174fcb2450413d5882e86c80d77703bd.jpg",
+            "label": "richard1\\labels\\tricy-23-_jpeg.rf.174fcb2450413d5882e86c80d77703bd.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-327-_jpg.rf.d159e5dbedce787888cbb3daa620b7ec.jpg",
+            "label": "richard1\\labels\\tricy-327-_jpg.rf.d159e5dbedce787888cbb3daa620b7ec.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-382-_jpg.rf.38e5fdc4beabfee0a065186e1790a52e.jpg",
+            "label": "richard1\\labels\\tricy-382-_jpg.rf.38e5fdc4beabfee0a065186e1790a52e.txt"
+        },
+        {
+            "image": "richard1\\images\\tricy-432-_jpg.rf.6b4a9a68d77e59d0b7c5f95860eeee3d.jpg",
+            "label": "richard1\\labels\\tricy-432-_jpg.rf.6b4a9a68d77e59d0b7c5f95860eeee3d.txt"
+        }
+    ],
+    "richard2": [
+        {
+            "image": "richard2\\images\\Picture14-1_jpg.rf.b61d1d9a3409cfa3d9ac5b023805aef9.jpg",
+            "label": "richard2\\labels\\Picture14-1_jpg.rf.b61d1d9a3409cfa3d9ac5b023805aef9.txt"
+        },
+        {
+            "image": "richard2\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.25e2ace3a6adaf9ab795161451c10333.jpg",
+            "label": "richard2\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.25e2ace3a6adaf9ab795161451c10333.txt"
+        },
+        {
+            "image": "richard2\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.8ddd05d7ce4a55c2eb26c5b3185d4b62.jpg",
+            "label": "richard2\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.8ddd05d7ce4a55c2eb26c5b3185d4b62.txt"
+        },
+        {
+            "image": "richard2\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.e03dc975d76238050e7daec24a7aaf54.jpg",
+            "label": "richard2\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.e03dc975d76238050e7daec24a7aaf54.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-244-_jpg.rf.68cafd77df854b871b5f4be0a0effdc7.jpg",
+            "label": "richard2\\labels\\tricy-244-_jpg.rf.68cafd77df854b871b5f4be0a0effdc7.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-325-_jpg.rf.c09cefac187d60da2d34cce7dea41598.jpg",
+            "label": "richard2\\labels\\tricy-325-_jpg.rf.c09cefac187d60da2d34cce7dea41598.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-326-_jpg.rf.462905a6207ecf63e9a1aafa3786fce9.jpg",
+            "label": "richard2\\labels\\tricy-326-_jpg.rf.462905a6207ecf63e9a1aafa3786fce9.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-333-_jpg.rf.440e011a192a3a062e56f06cb94289a6.jpg",
+            "label": "richard2\\labels\\tricy-333-_jpg.rf.440e011a192a3a062e56f06cb94289a6.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-385-_jpg.rf.1ca157bdc1f28c5eaf8b9876afd2d5c1.jpg",
+            "label": "richard2\\labels\\tricy-385-_jpg.rf.1ca157bdc1f28c5eaf8b9876afd2d5c1.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-386-_jpg.rf.0dd535794659d1d17358d86951d76182.jpg",
+            "label": "richard2\\labels\\tricy-386-_jpg.rf.0dd535794659d1d17358d86951d76182.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-394-_jpg.rf.30370f98a2045c4a18ec7ea132f64343.jpg",
+            "label": "richard2\\labels\\tricy-394-_jpg.rf.30370f98a2045c4a18ec7ea132f64343.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-403-_jpg.rf.8fcdd13e6dc5e2a101559769511d3ca6.jpg",
+            "label": "richard2\\labels\\tricy-403-_jpg.rf.8fcdd13e6dc5e2a101559769511d3ca6.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-422-_jpg.rf.8d76e22d99f95171096e4e9db29069b0.jpg",
+            "label": "richard2\\labels\\tricy-422-_jpg.rf.8d76e22d99f95171096e4e9db29069b0.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-553-_jpg.rf.7f0bd2c4a2312fba2930098f414b2f74.jpg",
+            "label": "richard2\\labels\\tricy-553-_jpg.rf.7f0bd2c4a2312fba2930098f414b2f74.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-556-_jpg.rf.05b22df790c8cade2b89b1a0f539acf2.jpg",
+            "label": "richard2\\labels\\tricy-556-_jpg.rf.05b22df790c8cade2b89b1a0f539acf2.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-560-_jpg.rf.fe903ea2af42bbd37576539256082e32.jpg",
+            "label": "richard2\\labels\\tricy-560-_jpg.rf.fe903ea2af42bbd37576539256082e32.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-581-_jpg.rf.5f8f80c0422c2c8d59ebecc33b233a00.jpg",
+            "label": "richard2\\labels\\tricy-581-_jpg.rf.5f8f80c0422c2c8d59ebecc33b233a00.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-686-_jpg.rf.e205696fb54513c76fa4ca2f1e5b037c.jpg",
+            "label": "richard2\\labels\\tricy-686-_jpg.rf.e205696fb54513c76fa4ca2f1e5b037c.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-763-_jpg.rf.4294ecaaff33f8262b345123f95cfdb3.jpg",
+            "label": "richard2\\labels\\tricy-763-_jpg.rf.4294ecaaff33f8262b345123f95cfdb3.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-765-_jpg.rf.887f7da0191b5b63087aed2f827c439a.jpg",
+            "label": "richard2\\labels\\tricy-765-_jpg.rf.887f7da0191b5b63087aed2f827c439a.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-871-_jpg.rf.3e0c53e467cf58503d98ddb518698314.jpg",
+            "label": "richard2\\labels\\tricy-871-_jpg.rf.3e0c53e467cf58503d98ddb518698314.txt"
+        }
+    ],
+    "richard3": [
+        {
+            "image": "richard3\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.29030e4d89d1358702660ef5cbe465a4.jpg",
+            "label": "richard3\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.29030e4d89d1358702660ef5cbe465a4.txt"
+        },
+        {
+            "image": "richard3\\images\\tricy-123-_jpg.rf.2f6c09d8b77f5e5359873c95796cb9f6.jpg",
+            "label": "richard3\\labels\\tricy-123-_jpg.rf.2f6c09d8b77f5e5359873c95796cb9f6.txt"
+        },
+        {
+            "image": "richard3\\images\\tricy-194-_jpg.rf.9f682e5770bbea1985195b055586f2c7.jpg",
+            "label": "richard3\\labels\\tricy-194-_jpg.rf.9f682e5770bbea1985195b055586f2c7.txt"
+        },
+        {
+            "image": "richard3\\images\\tricy-228-_jpg.rf.1d4abf9d375e75480350e5bda778a913.jpg",
+            "label": "richard3\\labels\\tricy-228-_jpg.rf.1d4abf9d375e75480350e5bda778a913.txt"
+        },
+        {
+            "image": "richard3\\images\\tricy-576-_jpg.rf.34b6db8a467a0c1fa6c54c3d8223c48e.jpg",
+            "label": "richard3\\labels\\tricy-576-_jpg.rf.34b6db8a467a0c1fa6c54c3d8223c48e.txt"
+        },
+        {
+            "image": "richard3\\images\\tricy-756-_jpg.rf.c83db5c68470948cbf97d0e77334c5ec.jpg",
+            "label": "richard3\\labels\\tricy-756-_jpg.rf.c83db5c68470948cbf97d0e77334c5ec.txt"
+        }
+    ],
+    "richard4": [
+        {
+            "image": "richard4\\images\\tricy-123-_jpg.rf.428c8945673142be973f5a2ef69e4b95.jpg",
+            "label": "richard4\\labels\\tricy-123-_jpg.rf.428c8945673142be973f5a2ef69e4b95.txt"
+        },
+        {
+            "image": "richard4\\images\\tricy-187-_jpg.rf.63c7e40dab9c74203308900d469695f7.jpg",
+            "label": "richard4\\labels\\tricy-187-_jpg.rf.63c7e40dab9c74203308900d469695f7.txt"
+        },
+        {
+            "image": "richard4\\images\\tricy-23-_jpeg.rf.176d76a016c3ee0b69e9c2998e413a30.jpg",
+            "label": "richard4\\labels\\tricy-23-_jpeg.rf.176d76a016c3ee0b69e9c2998e413a30.txt"
+        },
+        {
+            "image": "richard4\\images\\tricy-327-_jpg.rf.d1e595c5c10e97121e6aab3fc50a98d9.jpg",
+            "label": "richard4\\labels\\tricy-327-_jpg.rf.d1e595c5c10e97121e6aab3fc50a98d9.txt"
+        },
+        {
+            "image": "richard4\\images\\tricy-382-_jpg.rf.388db618795d6eeb28ab16fe74eb8a78.jpg",
+            "label": "richard4\\labels\\tricy-382-_jpg.rf.388db618795d6eeb28ab16fe74eb8a78.txt"
+        },
+        {
+            "image": "richard4\\images\\tricy-432-_jpg.rf.6b7d2dd7cdbbaef0f1ff83649468f01d.jpg",
+            "label": "richard4\\labels\\tricy-432-_jpg.rf.6b7d2dd7cdbbaef0f1ff83649468f01d.txt"
+        }
+    ],
+    "test": [],
+    "test2": [],
+    "test3": [],
+    "test4": [],
+    "train_and_val": []
+}

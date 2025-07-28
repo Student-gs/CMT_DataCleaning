@@ -1,0 +1,71 @@
+{
+    "6k": [],
+    "richard1": [],
+    "richard2": [
+        {
+            "image": "richard2\\images\\Picture14-1_jpg.rf.f828c309f9f717bcc75b62b06f1513f7.jpg",
+            "label": "richard2\\labels\\Picture14-1_jpg.rf.f828c309f9f717bcc75b62b06f1513f7.txt"
+        },
+        {
+            "image": "richard2\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.25e2ace3a6adaf9ab795161451c10333.jpg",
+            "label": "richard2\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.25e2ace3a6adaf9ab795161451c10333.txt"
+        },
+        {
+            "image": "richard2\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.8ddd05d7ce4a55c2eb26c5b3185d4b62.jpg",
+            "label": "richard2\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.8ddd05d7ce4a55c2eb26c5b3185d4b62.txt"
+        },
+        {
+            "image": "richard2\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.e03dc975d76238050e7daec24a7aaf54.jpg",
+            "label": "richard2\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.e03dc975d76238050e7daec24a7aaf54.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-489-_jpg.rf.e9150820a16e42c1f24a53752c894ae5.jpg",
+            "label": "richard2\\labels\\tricy-489-_jpg.rf.e9150820a16e42c1f24a53752c894ae5.txt"
+        },
+        {
+            "image": "richard2\\images\\Picture13-1_jpg.rf.4059faf6ffb9f502d9b559072452c5cc.jpg",
+            "label": "richard2\\labels\\Picture13-1_jpg.rf.4059faf6ffb9f502d9b559072452c5cc.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-156-_jpg.rf.3e90bef4a764c8e079f86eb146fd829d.jpg",
+            "label": "richard2\\labels\\tricy-156-_jpg.rf.3e90bef4a764c8e079f86eb146fd829d.txt"
+        },
+        {
+            "image": "richard2\\images\\tricy-756-_jpg.rf.c14da1989b7455b89044fc3673652fa3.jpg",
+            "label": "richard2\\labels\\tricy-756-_jpg.rf.c14da1989b7455b89044fc3673652fa3.txt"
+        }
+    ],
+    "richard3": [
+        {
+            "image": "richard3\\images\\Picture14-1_jpg.rf.fc2159d0ec6a4f299f55603ed39eaa57.jpg",
+            "label": "richard3\\labels\\Picture14-1_jpg.rf.fc2159d0ec6a4f299f55603ed39eaa57.txt"
+        },
+        {
+            "image": "richard3\\images\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.29030e4d89d1358702660ef5cbe465a4.jpg",
+            "label": "richard3\\labels\\s-10-mar-2019-motorbikes-on-asian-city-street-tricycle-or-pedicab-on-busy-cr_jpg.rf.29030e4d89d1358702660ef5cbe465a4.txt"
+        },
+        {
+            "image": "richard3\\images\\tricy-489-_jpg.rf.e9a4840ef91be68867d9d2451d4e2ec6.jpg",
+            "label": "richard3\\labels\\tricy-489-_jpg.rf.e9a4840ef91be68867d9d2451d4e2ec6.txt"
+        }
+    ],
+    "richard4": [
+        {
+            "image": "richard4\\images\\Picture13-1_jpg.rf.4546b7089af7bf1aff6cd8387eceb0c2.jpg",
+            "label": "richard4\\labels\\Picture13-1_jpg.rf.4546b7089af7bf1aff6cd8387eceb0c2.txt"
+        },
+        {
+            "image": "richard4\\images\\tricy-156-_jpg.rf.3ee962aee59bb85607dc6a28e9385a01.jpg",
+            "label": "richard4\\labels\\tricy-156-_jpg.rf.3ee962aee59bb85607dc6a28e9385a01.txt"
+        },
+        {
+            "image": "richard4\\images\\tricy-756-_jpg.rf.c1b16fe6bbf190c2cb39d9d69309d99e.jpg",
+            "label": "richard4\\labels\\tricy-756-_jpg.rf.c1b16fe6bbf190c2cb39d9d69309d99e.txt"
+        }
+    ],
+    "test": [],
+    "test2": [],
+    "test3": [],
+    "test4": [],
+    "train_and_val": []
+}
